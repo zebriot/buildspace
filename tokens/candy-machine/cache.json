@@ -1,0 +1,129 @@
+{
+  "program": {
+    "candyMachine": "84nmvF1Ce2mi4TG6GHpobaASJnMK7XrPUtYYdYpSLmb5",
+    "candyMachineCreator": "7Ja7ERotTkZPzHYRSWNW8hDjPbTjps7cmgffGcSVmZ1z",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Kitzu #0",
+      "image_hash": "a90844aa9481757f67c5e30c3c2d45e30940d2b0b0ad62fd8cd8499757648675",
+      "image_link": "https://arweave.net/UZVvYPECMyJaOvUSltXoiR58XnDEa0PwyJs_Xs11RwQ?ext=jpg",
+      "metadata_hash": "095bc0fac1553d422753620105a45906212adb59dff2f1d3b823f1e7e452425e",
+      "metadata_link": "https://arweave.net/-zRiMzyLIC7vOnTHQv51WL217qNZFkhGrmU6uhfHHl8",
+      "onChain": true
+    },
+    "1": {
+      "name": "Kitzu #1",
+      "image_hash": "c33a6f91ab4bfa114fcc874dc6ca03e0ab5e24ac01d4dd0c1735f0450138f5e4",
+      "image_link": "https://arweave.net/l8BnobjW3fUmiY4L6wmJVOWqS-J4b2C3xS5B_A2AupE?ext=jpg",
+      "metadata_hash": "3794068abd7e406cf5aaccbc7a4139504da4a0b041cdc9842b4d118ba45b8d90",
+      "metadata_link": "https://arweave.net/JXsrt_v3Ap5t4ZH4fLixzbb1DiCjpWjD8nwbbbqjIrg",
+      "onChain": true
+    },
+    "2": {
+      "name": "Kitzu #2",
+      "image_hash": "c6d1409808b5fde386b3c14486be095136a294032fe56eb2214a0457a06e5add",
+      "image_link": "https://arweave.net/bc_8QenGvYOZaW1OnhLpwpNrfrqioxGkUeHthBkt7Ok?ext=jpg",
+      "metadata_hash": "d51683a59ecb5b7a0edf35dad638ccb73e3893a419addd48f3651e1259a0c13a",
+      "metadata_link": "https://arweave.net/BBSErOZNCeSNRWKBEeAjQKyk6fOibTGd2uiERSAwbO4",
+      "onChain": true
+    },
+    "3": {
+      "name": "Kitzu #3",
+      "image_hash": "b042f1a6a2d6aeffd35d7ceef38885b5fb8923ee9fd8d03a691738c717509347",
+      "image_link": "https://arweave.net/SJOt08F8g-RmIFrH7wokAQFyro70zMs6Kj9-hJNB-pE?ext=jpg",
+      "metadata_hash": "e90ee04dc40b9ff1a328abb0e25a951619f08be05b0c33f661210737950d2320",
+      "metadata_link": "https://arweave.net/j__Clge7dXzUM4_y1WdnN7cElhHkNfNNUTeEVQ8yiWQ",
+      "onChain": true
+    },
+    "4": {
+      "name": "Kitzu #4",
+      "image_hash": "580b5d37fd00ab3c501e959a8d3c6e605278a2b3784df8e9c3647a839e1f71e7",
+      "image_link": "https://arweave.net/ZYTZu0bYA7wjx5MtlHfWSGdtR1I1CPSUkffw-SkwRGU?ext=jpg",
+      "metadata_hash": "780906cca3a8ab30a33e81f7225d6b35b7e311382559a87c5d623b2a24fd291b",
+      "metadata_link": "https://arweave.net/wTJWyO7o_J043cDbpk_JZ0OQlCUOaTmAnda_J2GFMa4",
+      "onChain": true
+    },
+    "5": {
+      "name": "Kitzu #5",
+      "image_hash": "13b03cb8ddbc2e3b77697f2d9cf7903e540ee5980628dbb0e59b70f17e4d770b",
+      "image_link": "https://arweave.net/v-yPkvC-0he-68BkpeCTq4wrL-2skwD5nYoyyUeLNBg?ext=jpg",
+      "metadata_hash": "18fdddf9817c40613aed3fa2584b557517bbb46d1c4c5adb7086695a951ef042",
+      "metadata_link": "https://arweave.net/uRUsI-1lvGbJAQgKmGqZFBe2TRGebJZnGKfNsFnGMN8",
+      "onChain": true
+    },
+    "6": {
+      "name": "Kitzu #6",
+      "image_hash": "c1c1aeb466b85509c31a3fe861ad64153a3ad34000e61303db9d2516964c081a",
+      "image_link": "https://arweave.net/Qmsr5APZyZnWXzl_pCCSQOEGRPr7tkY6c99G66-Tdy8?ext=jpg",
+      "metadata_hash": "a7bfb949b98ba990c15380fd5a26642e75e6faa34d165f15206f082628db8ef1",
+      "metadata_link": "https://arweave.net/LAhNPssKsxGLj-mHgsyABjO9gCY0WIEOotRyZGUcI2E",
+      "onChain": true
+    },
+    "7": {
+      "name": "Kitzu #7",
+      "image_hash": "519047017d8e4afc8b59f17ad28af2de0a02c629af2d012b94274958ea0dfe53",
+      "image_link": "https://arweave.net/ahE11_Ki1m0gk2Sp3EPwHaU9gi42pRChFvJ4JOjiNso?ext=jpg",
+      "metadata_hash": "b3a73cb751b13ca2fbd2baf954b7139385a2a15a448fd6103124e0befb9c7185",
+      "metadata_link": "https://arweave.net/NUudtrEZ5Owim6u-He-kCpTF9pl9EdGm0X6puEQDuSY",
+      "onChain": true
+    },
+    "8": {
+      "name": "Kitzu #8",
+      "image_hash": "68ffd4a2f6a80701571520afd0c1e866469c4e658564e3e2956089b3202f24fd",
+      "image_link": "https://arweave.net/YzkF5zFK4921EoVcdqHKPRBJPFTcqBZ1tgiktokXXqM?ext=jpg",
+      "metadata_hash": "8625d3bcbb349d3c55f389c238c8279fefccda31856a34f019e2cc06d3e59ca0",
+      "metadata_link": "https://arweave.net/QRKrdG9IuDqRvUuhJGr71nqI0lwM7XHaFb_KT1RzJyk",
+      "onChain": true
+    },
+    "9": {
+      "name": "Kitzu #9",
+      "image_hash": "6e4f04ee39a7d19b72afae2f14e34481623e016b8362632ba5bf7f3a10c4db68",
+      "image_link": "https://arweave.net/vhDizjNp5b9sDj1e_8WIhWPTIg3q8Oy4QCMennGJMNY?ext=jpg",
+      "metadata_hash": "773cefefc27f0706f38d88fe408f0c7746c126d588fd200f696cdbf8f088ab81",
+      "metadata_link": "https://arweave.net/ITlR-MokQ9RxfwDyHeAJX8m6SO2aXS4vFB8agJDf42Y",
+      "onChain": true
+    },
+    "10": {
+      "name": "Kitzu #10",
+      "image_hash": "c5c3be6e04cb528ffc5402a5c2bb9fdd49fdcad288d1debe725aef6a472d02be",
+      "image_link": "https://arweave.net/3_J-cWg7fA3nfqrso5HYXkO-97KNaniY4WNJ__EW5mI?ext=jpg",
+      "metadata_hash": "8a47fa4435d82a6394c1e694512d8af96a1875345c88e9768601f174804b0e57",
+      "metadata_link": "https://arweave.net/7l0c1daYXZCLBl9xT5GmuwfeJy2MQo1BeWZXpf_Ewqg",
+      "onChain": true
+    },
+    "11": {
+      "name": "Kitzu #11",
+      "image_hash": "07df5d1c3f8d3188d93f75a7537e79d36244a04bbce33c97391cc1ab3e805619",
+      "image_link": "https://arweave.net/e6X1tU83-ZiGXX5Ty3Nf3C1NIEMocmPCrUxsDxUvHQQ?ext=jpg",
+      "metadata_hash": "59447bda0370dab06c4812bc214e8606c3989a43567d7137add5001d3fe826c9",
+      "metadata_link": "https://arweave.net/DqsUYGzF9jUDXg_Na-j5gmvovwfwNDPinJZYM0og6Yg",
+      "onChain": true
+    },
+    "12": {
+      "name": "Kitzu #12",
+      "image_hash": "9f8d53b75a7f2609f325daf2c566aec4dcae0dd64cf6dab6bb8f7b76a3cad200",
+      "image_link": "https://arweave.net/MGuEvtdk5dGTddh5uQ-Mc82F4h8mFBnxvJxQ7zofk3w?ext=jpg",
+      "metadata_hash": "02326cf7c8c7e65e8bd264b24e979046259aaf6a302b805568c2ff808b9831f1",
+      "metadata_link": "https://arweave.net/zx350J7OVpY9pMULeV5ku_GP8m1TdGX4hddQaEKW7T4",
+      "onChain": true
+    },
+    "13": {
+      "name": "Kitzu #13",
+      "image_hash": "f3bbbe58cad36be11a542895e75d0677cfd0bdcf6b17cbf7920786672a9b2860",
+      "image_link": "https://arweave.net/dvQF4g07bweuY8RzYIhOKuI-Rnqh38_Ww0zQox1RzVE?ext=jpg",
+      "metadata_hash": "85fcbbb338ab509a8b5e7d49b81c4d1dc5ace9b66939608aae3a1b6e847752fe",
+      "metadata_link": "https://arweave.net/6OkREzHDj90-1qhERf4NtGnZ_kwHDWjSHufpmR81Mgc",
+      "onChain": true
+    },
+    "14": {
+      "name": "Kitzu #14",
+      "image_hash": "493a61bc83160b58162f4f0a6646b9b7e0492ec7e145689a23b1ee20ddf676ed",
+      "image_link": "https://arweave.net/1-0Dn4e4ot1jl2S_eGnkkD-EDc__qwSMPNIeM2zWMN4?ext=jpg",
+      "metadata_hash": "e1fe6b3bcb7fca8ea081cda43cf6046b3398276c577f2d14b15355379f517313",
+      "metadata_link": "https://arweave.net/lgXo-x35UF4FjYG5KE4-x4iZMtBHfaUcNvLFEwLsKmM",
+      "onChain": true
+    }
+  }
+}
